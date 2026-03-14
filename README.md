@@ -1,7 +1,26 @@
-📖 Sobre o ProjetoOtimizar processos na construção civil é fundamental para pequenos empreiteiros e profissionais autônomos. Este projeto é uma aplicação desktop desenvolvida para integrar e facilitar a criação de relatórios de medição e a geração de orçamentos.O grande diferencial do software é o seu modo semiautomático, que utiliza a tecnologia OCR (Reconhecimento Óptico de Caracteres) para extrair dados de medições feitas à mão em cadernos e convertê-las em texto digital editável, organizando os dados através de regras lógicas integradas à tabela SINAPI.Este trabalho foi apresentado como requisito parcial à obtenção do título de Bacharel em Ciência da Computação no Centro Universitário Campos de Andrade em 2023.🚀 Principais Funcionalidades* Gestão de Contas: Suporte a criação de contas e login para Pessoa Física e Pessoa Jurídica, além de níveis de acesso (como Administrador PJ).
+📖 Sobre o Projeto
+
+Otimizar processos na construção civil é fundamental para pequenos empreiteiros e profissionais autônomos. Este projeto é uma aplicação desktop desenvolvida para integrar e facilitar a criação de relatórios de medição e a geração de orçamentos.
+
+O grande diferencial do software é o seu modo semiautomático, que utiliza a tecnologia OCR (Reconhecimento Óptico de Caracteres) para extrair dados de medições feitas à mão em cadernos e convertê-las em texto digital editável, organizando os dados através de regras lógicas integradas à tabela SINAPI.
+
+Este trabalho foi apresentado como requisito parcial à obtenção do título de Bacharel em Ciência da Computação no Centro Universitário Campos de Andrade em 2023.
+
+🚀 Principais Funcionalidades
+* Gestão de Contas: Suporte a criação de contas e login para Pessoa Física e Pessoa Jurídica, além de níveis de acesso (como Administrador PJ).
 * Relatórios de Medição: Criação de relatórios manuais ou via upload de imagem com extração via OCR. Exportação disponível para PDF e CSV.
 * Orçamentos Integrados: Geração de orçamentos a partir de relatórios de medição existentes ou inserção manual de novos orçamentos.
-* Gestão de Cadastros: Módulos completos (CRUD) para gerenciar Clientes, Serviços e Obras.🛠️ Tecnologias UtilizadasO projeto foi arquitetado utilizando as seguintes tecnologias e ferramentas:
-* Linguagem: C++ * Interface Gráfica: Qt Creator * Processamento de Imagem e OCR: Tesseract OCR e Leptonica * Banco de Dados: MySQL e MySQL Workbench para modelagem (DER) * Controle de Versão: Git ⚙️ Requisitos Não Funcionais* Compatível com os sistemas operacionais Windows e Linux.
-* Alta performance, com tempo máximo de resposta de 10 segundos para lidar com o processamento de imagens via OCR.👨‍💻 Autores* Fabrício Corrêa de Souza  - [Link para seu LinkedIn/GitHub]
-* Matheus Gonçalves Gotardo  - [Link para seu LinkedIn/GitHub]Orientador: Prof. MSc. Ricardo Massao Kagami 
+* Gestão de Cadastros: Módulos completos (CRUD) para gerenciar Clientes, Serviços e Obras.
+
+🛠️ Tecnologias Utilizadas
+* O projeto foi arquitetado utilizando as seguintes tecnologias e ferramentas:
+* Linguagem: C++ * Interface Gráfica: Qt Creator * Processamento de Imagem e OCR: Tesseract OCR e Leptonica * Banco de Dados: MySQL e MySQL Workbench para modelagem (DER) * Controle de Versão: Git
+
+⚙️ Requisitos Não Funcionais
+* Compatível com os sistemas operacionais Windows e Linux.
+* Alta performance, com tempo máximo de resposta de 10 segundos para lidar com o processamento de imagens via OCR.
+
+👨‍💻 Autores
+* Fabrício Corrêa de Souza  
+* Matheus Gonçalves Gotardo
+* Orientador: Prof. MSc. Ricardo Massao Kagami 
